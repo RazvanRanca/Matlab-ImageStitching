@@ -1,0 +1,6 @@
+Matlab-ImageStitching
+=====================
+
+This is a project I did in my junior year for a computer vision class. 
+
+**Running**: call the stitch function with the two images you want stiched. Eg: *stitch('Samples/monkeys1.png', 'Samples/monkeys2.png')*
